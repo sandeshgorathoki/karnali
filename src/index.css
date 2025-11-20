@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+	--color-primary: #1e40af;
+	--color-secondary: #3b82f6;
+	--color-lightBlue: #60a5fa;
+	--color-skyBlue: #0ea5e9;
+	--color-accent: #2563eb;
+
+	--color-neutral-white: #ffffff;
+	--color-neutral-lightGray: #f3f4f6;
+	--color-neutral-mediumGray: #6b7280;
+	--color-neutral-darkGray: #1f2937;
+	--color-neutral-almostBlack: #111827;
+}
+
+/* Base resets */
+* { @apply antialiased; }
+html, body, #root { height: 100%; }
+body { @apply bg-neutral-white text-neutral-darkGray; }
