@@ -34,3 +34,5 @@ export default function Lightbox({ images, index, onClose, onPrev, onNext }: Pro
 
 
 
+
+
