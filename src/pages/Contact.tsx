@@ -115,7 +115,7 @@ export default function Contact() {
             title="map" 
             className="w-full h-64 rounded" 
             loading="lazy" 
-            src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d490.18278396502296!2d82.3143487149823!3d28.147813388364057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sca!4v1765549579587!5m2!1sen!2sca"
+            src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7436.255371938441!2d82.30557256113687!3d28.128867787366392!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sca!4v1765633686875!5m2!1sen!2sca"
           ></iframe>
         </div>
       </div>
