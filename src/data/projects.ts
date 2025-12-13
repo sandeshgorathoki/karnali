@@ -20,11 +20,11 @@ export const projects: Project[] = [
 		name: 'Chaina Khola Trail Bridge',
 		category: 'Completed',
 		description: 'A vital trail bridge infrastructure project connecting remote communities across Chaina Khola, providing essential access for local residents and improving regional connectivity in the mountainous terrain of Mugu.',
-		image: '/project/1.1.jpg',
-		images: ['/project/1.2.jpg', '/project/1.3.jpg'],
+		image: '/project/1.2.jpg',
+		images: ['/project/1.1.jpg', '/project/1.3.jpg'],
 		location: 'Chayanath Rara Municipality, Mugu, Nepal',
 		client: 'Local Government',
-		duration: '12 months',
+		duration: '5 months',
 		completionDate: '2023',
 		features: ['Trail Bridge Construction', 'Mountain Engineering', 'Community Access', 'Durable Design']
 	},
@@ -33,11 +33,11 @@ export const projects: Project[] = [
 		name: 'Goa Bridge of Dreams',
 		category: 'Completed',
 		description: 'An international infrastructure project showcasing our expertise beyond Nepal borders. This bridge project in Goa demonstrates our capability to deliver quality construction in diverse geographical and cultural contexts.',
-		image: '/project/2.1.jpg',
+		image: '/services/3.jpeg',
 		images: ['/project/2.2.jpeg', '/project/2.3.jpeg'],
 		location: 'Goa, India',
 		client: 'International Client',
-		duration: '18 months',
+		duration: '6 months',
 		completionDate: '2022',
 		features: ['International Project', 'Modern Bridge Design', 'Quality Construction', 'Cultural Integration']
 	},
@@ -50,7 +50,7 @@ export const projects: Project[] = [
 		images: ['/project/3.2.jpeg', '/project/3.3.jpeg'],
 		location: 'Chhedagad Municipality, Jajarkot, Nepal',
 		client: 'Municipality Government',
-		duration: '15 months',
+		duration: '7 months',
 		completionDate: '2023',
 		features: ['Suspension Bridge', 'Community Development', 'Transportation Access', 'Engineering Excellence']
 	},
@@ -63,8 +63,8 @@ export const projects: Project[] = [
 		images: ['/project/4.2.jpg', '/project/4.3.jpg'],
 		location: 'Tulsipur-09 Katkuiya, Dang, Nepal',
 		client: 'Education Department',
-		duration: '20 months',
-		completionDate: '2023',
+		duration: '12 months',
+		completionDate: '2025',
 		features: ['Modern Classrooms', 'Science Laboratories', 'Educational Infrastructure', 'Student Facilities']
 	},
 	{
@@ -76,7 +76,7 @@ export const projects: Project[] = [
 		images: ['/project/5.2.jpeg', '/project/5.3.jpg'],
 		location: 'Tulsipur Sub-Metropolitan City, Nepal',
 		client: 'Sub-Metropolitan City',
-		duration: '14 months',
+		duration: '10 months',
 		completionDate: '2024',
 		features: ['Administrative Building', 'Modern Office Spaces', 'Public Service Areas', 'Government Facility']
 	},
@@ -89,7 +89,7 @@ export const projects: Project[] = [
 		images: ['/project/6.2.jpg', '/project/6.3.jpg'],
 		location: 'Dungeshwor Municipality, Dailekh, Nepal',
 		client: 'Municipality Government',
-		duration: '16 months',
+		duration: '12 months',
 		completionDate: '2023',
 		features: ['Water Pipeline System', 'Treatment Facilities', 'Distribution Network', 'Community Infrastructure']
 	},
@@ -104,7 +104,7 @@ export const projects: Project[] = [
 		images: ['/project/7.1.jpg'],
 		location: 'Mugu, Nepal',
 		client: 'Local Government',
-		duration: '18 months',
+		duration: 'Running',
 		startDate: '2024',
 		features: ['Suspension Bridge', 'Remote Access', 'Engineering Challenges', 'Community Connectivity']
 	},
@@ -116,7 +116,7 @@ export const projects: Project[] = [
 		image: '/project/8.1.jpg',
 		location: 'Gulmi, Nepal',
 		client: 'District Government',
-		duration: '14 months',
+		duration: 'Running',
 		startDate: '2024',
 		features: ['Trail Bridge Construction', 'Hill Engineering', 'Local Transportation', 'Accessibility Improvement']
 	}

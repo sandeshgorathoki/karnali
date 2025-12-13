@@ -38,7 +38,7 @@ export const services: Service[] = [
 		title: 'Roads & Infrastructure Development',
 		description: 'Comprehensive infrastructure projects including road construction, bridges, utilities, and public works that connect and serve communities.',
 		icon: 'PiRoadHorizonBold',
-		image: '/services/3.jpeg',
+		image: '/services/3.jpg',
 	},
 	{
 		id: 'structural-design-civil-engineering',
