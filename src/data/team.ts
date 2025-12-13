@@ -17,7 +17,7 @@ export const teamMembers: TeamMember[] = [
 	{
 		id: 'numa-dc',
 		name: 'Numa DC',
-		position: 'Chairman/Director of Finance',
+		position: 'Chairman',
 		image: '/team/2.jpg',
 		bio: 'Overseeing financial operations and strategic planning to ensure sustainable growth and successful project delivery.'
 	},

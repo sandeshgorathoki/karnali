@@ -87,7 +87,7 @@ export default function ServiceDetail() {
             <div className="bg-gradient-to-br from-blue-50 to-white p-6 rounded-xl">
               <h3 className="text-lg font-semibold text-neutral-almostBlack mb-4">Why Choose Us?</h3>
               <ul className="space-y-3 text-sm text-neutral-darkGray/80">
-                <li>• 25+ years of experience</li>
+                <li>• 5+ years of experience</li>
                 <li>• Licensed & certified professionals</li>
                 <li>• Quality materials & workmanship</li>
                 <li>• Timely project delivery</li>

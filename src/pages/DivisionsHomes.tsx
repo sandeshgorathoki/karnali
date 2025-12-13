@@ -59,13 +59,7 @@ export default function DivisionsHomes() {
               <h4 className="text-xl font-semibold mb-2">Single Family Homes</h4>
               <p className="text-neutral-darkGray/80">Custom-designed single-family residences with modern amenities and sustainable features.</p>
             </div>
-            <div className="text-center p-6">
-              <div className="w-16 h-16 bg-primary rounded-full flex items-center justify-center mx-auto mb-4">
-                <PiBlueprintBold className="text-white text-2xl" />
-              </div>
-              <h4 className="text-xl font-semibold mb-2">Townhouses & Duplexes</h4>
-              <p className="text-neutral-darkGray/80">Multi-unit residential projects with shared amenities and efficient space utilization.</p>
-            </div>
+           
             <div className="text-center p-6">
               <div className="w-16 h-16 bg-primary rounded-full flex items-center justify-center mx-auto mb-4">
                 <PiHammerBold className="text-white text-2xl" />
